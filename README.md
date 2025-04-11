@@ -29,7 +29,7 @@
 
 ### 📦 Projects I'm Proud Of
 
-🔹Volunteer Management System :
+🔹**Volunteer Management System** 
 DevOps setup with Jenkins, Docker, Kind (K8s), Route53, and ACM on AWS
 
 🔹WordPress Migration with Docker :

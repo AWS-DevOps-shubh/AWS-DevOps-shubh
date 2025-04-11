@@ -29,11 +29,17 @@
 
 ### 📦 Projects I'm Proud Of
 
-🔹 [Project One](https://github.com/your-username/project-one)  
-Brief description of what this project does and which technologies are used.
+🔹 [Volunteer Management System](https://github.com/shubham-bjs/volunteer-management-system)  
+DevOps setup with Jenkins, Docker, Kind (K8s), Route53, and ACM on AWS
 
-🔹 [Project Two](https://github.com/your-username/project-two)  
-Brief description of what this project does and the impact it makes.
+🔹 [WordPress Migration with Docker](https://github.com/shubham-bjs/wordpress-docker-ec2)  
+Migrated a production WordPress site from Lightsail to EC2 using Docker, Nginx, and FastCGI caching
+
+🔹 [General Store App with K8s Monitoring](https://github.com/shubham-bjs/general-store-devops)  
+MERN app with Prometheus, Grafana, Kubernetes, CI/CD pipeline using Jenkins
+
+🔹 [Terraform AWS Infrastructure](https://github.com/shubham-bjs/terraform-aws-container-hosting)  
+Created VPC, ECS, Load Balancer setup using Terraform for container hosting
 
 ---
 

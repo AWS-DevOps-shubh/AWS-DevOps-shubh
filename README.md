@@ -35,7 +35,7 @@
 🔹**WordPress Migration with Docker :** 
 - Migrated a production WordPress site from Lightsail to EC2 using Docker, Nginx, and FastCGI caching
 
-🔹**General Store App with K8s Monitoring :** :
+🔹**General Store App with K8s Monitoring :** 
 - MERN app with Prometheus, Grafana, Kubernetes, CI/CD pipeline using Jenkins
 
 🔹**Terraform AWS Infrastructure :** :

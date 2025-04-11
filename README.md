@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi, I'm Shubham Tayde</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS Certified | Docker | Kubernetes | Jenkins | Terraform</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS | Docker | Kubernetes | Jenkins | Terraform</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working as a **DevOps Engineer** at [Your Company Name]
+- 🔭 I’m currently working as a **Network Engineer (AWS & DevOps)** at [Your Company Name]
 - 💡 Passionate about automation, cloud infrastructure, and streamlining deployments
 - 🌱 Continually learning about **Advanced Kubernetes, Prometheus, and GitOps**
 - ⚙️ Working with tools such as **EC2, Docker, Jenkins, and EKS**

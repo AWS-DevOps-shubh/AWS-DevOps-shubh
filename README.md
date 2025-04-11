@@ -4,12 +4,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working as a **Network Engineer (AWS & DevOps)** at [Your Company Name]
+- 🔭 I’m currently working as a **Network Engineer (AWS & DevOps)** at BJS
 - 💡 Passionate about automation, cloud infrastructure, and streamlining deployments
 - 🌱 Continually learning about **Advanced Kubernetes, Prometheus, and GitOps**
 - ⚙️ Working with tools such as **EC2, Docker, Jenkins, and EKS**
 - 💬 Ask me about: `CI/CD`, `Cloud Computing`, `Containerization`, `DevOps Best Practices`
-- 📫 Reach me: **youremail@example.com**
+- 📫 Reach me: **devops2204@gmail.com**
 
 ---
 

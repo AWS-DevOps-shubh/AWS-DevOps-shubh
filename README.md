@@ -29,16 +29,16 @@
 
 ### 📦 Projects I'm Proud Of
 
-🔹 [Volunteer Management System](https://github.com/shubham-bjs/volunteer-management-system)  
+🔹 [Volunteer Management System]
 DevOps setup with Jenkins, Docker, Kind (K8s), Route53, and ACM on AWS
 
-🔹 [WordPress Migration with Docker](https://github.com/shubham-bjs/wordpress-docker-ec2)  
+🔹 [WordPress Migration with Docker]
 Migrated a production WordPress site from Lightsail to EC2 using Docker, Nginx, and FastCGI caching
 
-🔹 [General Store App with K8s Monitoring](https://github.com/shubham-bjs/general-store-devops)  
+🔹 [General Store App with K8s Monitoring]
 MERN app with Prometheus, Grafana, Kubernetes, CI/CD pipeline using Jenkins
 
-🔹 [Terraform AWS Infrastructure](https://github.com/shubham-bjs/terraform-aws-container-hosting)  
+🔹 [Terraform AWS Infrastructure]
 Created VPC, ECS, Load Balancer setup using Terraform for container hosting
 
 ---
